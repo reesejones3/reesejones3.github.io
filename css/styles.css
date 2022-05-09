@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Chicle&family=Oleo+Script&display=swap');
+
+/* typography */
+h1{font-family: quiche-sans, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 25pt;
+}
+
+h2{font-family: quiche-sans, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 36pt}
+
+h3{font-family: darkmode-on, sans-serif;
+  font-weight: 300;
+  text-align: left;
+  font-size: 12pt ;
+  margin-top: 15pt;
+  font-size-adjust: auto;
+}
+
+h4{font-family: darkmode-on, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 10pt;
+  line-height: 2;
+  }
+
+h5{font-family: darkmode-on, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10pt;
+    line-height: 2;
+    margin-top:20px;
+    }
+
+h6{font-family: quiche-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25pt;
+    margin-top:50px
+  }
+
+
+
+/* footer */
+  .image {
+    background: url("../photos/business graphics_footer.jpg");
+    height: 100%;
+    position: relative;
+    background-size:cover;
+  }
+
+/* menu link */
+.menulink {
+  background: url("../photos/glacee_4.jpg");
+  height: 100%;
+  position: relative;
+  background-size: cover;
+}
+
+/* text */
+.aboutus {
+  margin-left: "col-sm-2";
+  margin-right: "col-sm-2";
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+.bartenders {
+  margin-left: "col-sm-2";
+  margin-right: "col-sm-2";
+  margin-top: 120px;
+  margin-bottom: 00px;
+}
+
+.menu {
+  margin-left: "col-sm-2";
+  margin-right: "col-sm-2";
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.titles {
+  margin-left: "col-sm-2";
+  margin-right: "col-sm-2";
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.break {
+  margin-left: "col-sm-2";
+  margin-right: "col-sm-2";
+  margin-top: 0px;
+  margin-bottom: 60px;
+}
+
+.map {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.questions {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.contact {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.menuphoto {
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+
+
+
+/* #triangles1 {
+  background-image: url("../photos/1_triangle set.png");
+  } */
