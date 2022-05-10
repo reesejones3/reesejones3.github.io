@@ -4,7 +4,7 @@
 h1{font-family: quiche-sans, sans-serif;
 font-weight: 700;
 font-style: normal;
-font-size: 25pt;
+font-size: 32pt;
 }
 
 h2{font-family: quiche-sans, sans-serif;
@@ -15,7 +15,7 @@ font-size: 36pt}
 h3{font-family: darkmode-on, sans-serif;
   font-weight: 300;
   text-align: left;
-  font-size: 12pt ;
+  font-size: 14pt ;
   margin-top: 15pt;
   font-size-adjust: auto;
 }
@@ -23,14 +23,14 @@ h3{font-family: darkmode-on, sans-serif;
 h4{font-family: darkmode-on, sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 10pt;
+  font-size: 12pt;
   line-height: 2;
   }
 
 h5{font-family: darkmode-on, sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 10pt;
+    font-size: 12pt;
     line-height: 2;
     margin-top:20px;
     }
@@ -38,7 +38,7 @@ h5{font-family: darkmode-on, sans-serif;
 h6{font-family: quiche-sans, sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 25pt;
+    font-size: 32pt;
     margin-top:50px
   }
 
@@ -47,9 +47,9 @@ h6{font-family: quiche-sans, sans-serif;
 /* footer */
   .image {
     background: url("../photos/business graphics_footer.jpg");
-    height: 100%;
-    position: relative;
-    background-size:cover;
+    height: "400"; 
+    position: center;
+    background-size: auto;
   }
 
 /* menu link */
